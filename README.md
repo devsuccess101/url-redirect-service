@@ -1,5 +1,11 @@
 # URL Redirect Service
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/worker-typescript)
-
-A batteries included template for kick starting a TypeScript Cloudflare worker project.
+| Service           | URL                                   |
+| ----------------- | ------------------------------------- |
+| YouTube           | https://l.devsuccess101.com/youtube   |
+| YouTube Subscribe | https://l.devsuccess101.com/subscribe |
+| GitHub            | https://l.devsuccess101.com/github    |
+| Tiktok            | https://l.devsuccess101.com/tiktok    |
+| Viblo             | https://l.devsuccess101.com/viblo     |
+| Facebook          | https://l.devsuccess101.com/facebook  |
+| Slack             | https://l.devsuccess101.com/slack     |
