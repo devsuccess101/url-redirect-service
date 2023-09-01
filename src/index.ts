@@ -18,7 +18,6 @@ export default {
       return Response.redirect(location, 301);
     }
 
-    // If request not in map, return the original request
-    return fetch(request);
+    return new Response('Hi there!');
   },
 };
