@@ -9,3 +9,5 @@
 | Viblo             | https://l.devsuccess101.com/viblo     |
 | Facebook          | https://l.devsuccess101.com/facebook  |
 | Slack             | https://l.devsuccess101.com/slack     |
+| Discord           | https://l.devsuccess101.com/discord   |
+| Web               | https://l.devsuccess101.com/web       |
