@@ -12,7 +12,7 @@ export default {
       ],
       ['/tiktok', 'https://www.tiktok.com/@devsuccess101'],
       ['/web', 'https://devsuccess101.com'],
-      ['/discord', 'https://discord.gg/jtHSCZwM'],
+      ['/discord', 'https://discord.gg/8CjG2crYUg'],
     ]);
 
     const requestURL = new URL(request.url);
