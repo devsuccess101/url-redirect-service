@@ -1,3 +1,4 @@
 name = "devsuccess101-url-redirect"
 main = "./src/index.ts"
+account_id = "be331a7ff9d4eb2dc0b5b719e8849d0d"
 compatibility_date = "2022-05-03"
