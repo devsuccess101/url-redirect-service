@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230518.0 ",
-    "vitest": "^1.0.0",
+    "vitest": "^2.0.0",
     "wrangler": "^3.6.0"
   }
 }
